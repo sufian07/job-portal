@@ -1,5 +1,5 @@
 # job-portal
-Trying to build a job portal using REST backend (PHP Laravel) and SPA frondend (Angular2).
+A job portal using REST backend developed with Rails5 API. A SPA frondend (Angular2) will be soon made to consume the api and show a beautifull front end.
 ## Features
 - Client posts jobs
 - Job seekers create profile & apply for a job
