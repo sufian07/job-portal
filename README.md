@@ -8,3 +8,11 @@ A job portal using REST backend developed with Rails5 API. A SPA frondend (Angul
 - Payment integration - Clients get charged on Credit Card - Stripe integration
 - Job seeker get notified
 - Clients rate job seeker 
+## Methodology
+* Development should follow TDD and BDD approach.
+* Code must have 100% test coverage.
+## Important library
+* gem 'factory_girl_rails'
+* gem 'shoulda-matchers'
+* gem 'faker'
+* gem 'database_cleaner'
